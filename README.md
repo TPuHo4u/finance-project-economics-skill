@@ -17,14 +17,16 @@ cd finance-project-economics-skill
 
 ```sh
 mkdir -p "$HOME/.agents/skills"
-ln -s "$PWD/skills/finance-project-economics" "$HOME/.agents/skills/finance-project-economics"
+test ! -e "$HOME/.agents/skills/finance-project-economics" && test ! -L "$HOME/.agents/skills/finance-project-economics" && \
+  ln -s "$PWD/skills/finance-project-economics" "$HOME/.agents/skills/finance-project-economics"
 ```
 
 ## Install for Claude Code
 
 ```sh
 mkdir -p "$HOME/.claude/skills"
-ln -s "$PWD/skills/finance-project-economics" "$HOME/.claude/skills/finance-project-economics"
+test ! -e "$HOME/.claude/skills/finance-project-economics" && test ! -L "$HOME/.claude/skills/finance-project-economics" && \
+  ln -s "$PWD/skills/finance-project-economics" "$HOME/.claude/skills/finance-project-economics"
 ```
 
 The `ln -s` commands are quoted and do not replace an existing destination. If a destination already exists, inspect it before changing the installation.

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "skills/finance-project-economics/README.md",
+      "sha256": "a35f198305c6a426f1ed137a50b5d4620c006f38bc84cfc5acfe118653f82bf7"
+    },
+    {
+      "path": "skills/finance-project-economics/SKILL.md",
+      "sha256": "374f2b89c3700be66a1b529e8354709a5d0a254d76dc2a6667c6a078a55c7d8b"
+    },
+    {
+      "path": "skills/finance-project-economics/references/collaboration.md",
+      "sha256": "00892ccabb93de275a411acba4d818aa1fd553c1386a96bbf7dc5d50644990f9"
+    },
+    {
+      "path": "skills/finance-project-economics/references/course-sources.md",
+      "sha256": "e3301a4ced7face711b65768b05ca96f994a691c7a5a1f256908dcfc45ebc883"
+    },
+    {
+      "path": "skills/finance-project-economics/references/financial-model.md",
+      "sha256": "79b68d8c2a0f47202f9994d83a3d2ee7ea952c688040e834b13ab1a6b135a42c"
+    },
+    {
+      "path": "skills/finance-project-economics/references/metrics.md",
+      "sha256": "40a78f0f3b5f8ff3a2bf676c6b93bc5f3afe817feea8e5afc5f0c2cc3b22fd86"
+    },
+    {
+      "path": "skills/finance-project-economics/references/project-review.md",
+      "sha256": "2ec153059143f15a82e3fdf295c659be4d8761a1c36af35c1bd47c8178e5b202"
+    },
+    {
+      "path": "skills/finance-project-economics/references/source-manifest.json",
+      "sha256": "e8379608f290fee8f9748fedaa8ad9c36612f166268d541761be9074d0ce096a"
+    },
+    {
+      "path": "skills/finance-project-economics/references/worked-example.md",
+      "sha256": "ce71da9bdb9542e38420e0f38b73e7d044f15a796e6ddc0e6616f672968455b7"
+    },
+    {
+      "path": "skills/finance-project-economics/templates/feo.md",
+      "sha256": "439ca966f9f6fe725981f1c87c5f0bb6f07271e7a038e48d3f15c8d8d95227a7"
+    }
+  ]
+}

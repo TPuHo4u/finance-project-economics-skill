@@ -1,0 +1,27 @@
+{
+  "verified_date": "2026-10-23",
+  "path_base": "Финансы и экономика / real numbered course folder",
+  "sources": [
+    {
+      "id": "FEO",
+      "path": "02 — Вебинары/Финансы и экономика_презентация вебинара_ФЭО.pdf",
+      "sha256": "f168c5da32177c3bf9b1b07766ff8ce1a2afc92b6840e60af194612055f8a03d"
+    },
+    {
+      "id": "HW",
+      "path": "02 — Вебинары/Финансы и экономика_презентация вебинара_ФЭО_ (комментарии к ДЗ).pdf",
+      "sha256": "8c9dd9e9a07ea808981c54788f9ff7e841e51457fa2c6c1fb8b3540c4f5885be"
+    },
+    {
+      "id": "AI",
+      "path": "01 — Теория и лекции/Модуль 2/Методичка для слушателя. Оценка AI-инициатив и ROI.pdf",
+      "sha256": "9c674340bbdd83039ace2c37c6a70b6d7a4a5ed8d1e98bbe854fe135b2ca0dc3"
+    },
+    {
+      "id": "MAP",
+      "path": "01 — Теория и лекции/Модуль 2/Сбер Мини-МВА_модуль 2_Реестр проектов и карта показателей.xlsx",
+      "sha256": "7863c06d8d12a6e8f1542d73c98900e58be57e9f429d0e587876da0e91224796"
+    }
+  ],
+  "scope": "Primary course originals, not automatic transcripts or trainer keys. Source files are not bundled."
+}
